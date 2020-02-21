@@ -5,5 +5,9 @@ This repository contains custom R-scripts for the analysis of the PhyHormInterac
 The R-scripts are for analyses of
 
 - network communities
-- number of pathway contact points
+- GO enrichment in communities
+- number of pathway contact points between different phytohormone pathways
 - subsampling analysis of pathway contact points in PhyHormInteractome compared to interactome derived from IntAct and BioGRID database
+- estimating sampling sensitivity of the yeast two hybrid screen. 
+
+
